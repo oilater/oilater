@@ -1,7 +1,7 @@
-### <h1> 매일 성장하는 병아리 프론트엔드 개발자 김성현입니다. </h1> 👋
+### 매일 성장하는 병아리 프론트엔드 개발자 김성현입니다. 👋
 
-<h2> 💬 1 DAY PROJECT </h2> <br>
-   ⚡ 1 Commit
+💬 1 DAY PROJECT <hr>
+   ⚡ 1 Commit <hr>
    ⚡ 10 Coding Test Practice
 <!--
 **oilater/oilater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
