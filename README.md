@@ -1,4 +1,4 @@
-### Hi there 👋
+### 하루 하루 성장하는 병아리 프론트엔드 개발자 김성현입니다. 👋
 
 <!--
 **oilater/oilater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
