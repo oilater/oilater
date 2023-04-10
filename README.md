@@ -6,7 +6,6 @@
   <br>
 
 📫 email: oilater@naver.com
-📫 instagram: @oilater_
 <!--
 **oilater/oilater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
