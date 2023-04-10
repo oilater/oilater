@@ -3,6 +3,10 @@
 💬 1 DAY PROJECT <br>
   🌱 1 Commit <br>
   🌱 10 Coding Test Practice
+  <br>
+
+📫 email: oilater@naver.com
+📫 instagram: @oilater_
 <!--
 **oilater/oilater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
