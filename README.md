@@ -6,7 +6,7 @@
   🌱 Step by Step
   <br>
 
-📫 email: oilater@naver.com
+📫 email: oilater@naver.com <br>
 😄 velog: https://velog.io/@oilater
 <!--
 **oilater/oilater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
