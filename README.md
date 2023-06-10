@@ -7,6 +7,7 @@
   <br>
 
 📫 email: oilater@naver.com
+😄 velog: https://velog.io/@oilater
 <!--
 **oilater/oilater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +19,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oilater&show_icons=true&theme=radical)
