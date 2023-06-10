@@ -2,7 +2,7 @@
 
 💬 1 DAY PROJECT <br>
   🌱 1 Commit <br>
-  🌱 10 Coding Test Practice <br>
+  🌱 2 Coding Test Practice <br>
   🌱 Step by Step
   <br>
 
