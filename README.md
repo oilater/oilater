@@ -1,4 +1,4 @@
-### 매일 성장하는 병아리 프론트엔드 개발자 김성현입니다. 👋
+### 매일 성장하는 병아리 풀스택 개발자 김성현입니다. 👋
 
 💬 1 DAY PROJECT <br>
   🌱 1 Commit <br>
@@ -6,6 +6,7 @@
   🌱 Step by Step
   <br>
 
+🔭 I’m currently stuyding on SSAFY 10th
 📫 email: oilater@naver.com <br>
 😄 velog: https://velog.io/@oilater
 <!--
@@ -13,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
