@@ -6,7 +6,7 @@
   🌱 Step by Step
   <br>
 
-🔭 I’m currently stuyding on SSAFY 10th
+🔭 SSAFY 10th <br>
 📫 email: oilater@naver.com <br>
 😄 velog: https://velog.io/@oilater
 <!--
