@@ -6,7 +6,7 @@
   🌱 Step by Step
   <br>
 
-🔭 SSAFY 10th <br>
+🔭 SSAFY 10th 자바 전공 6반 <br>
 📫 email: oilater@naver.com <br>
 😄 velog: https://velog.io/@oilater
 <!--
