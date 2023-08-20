@@ -24,3 +24,5 @@
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oilater&show_icons=true&theme=radical)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={oilater})](https://solved.ac/{oilater})
