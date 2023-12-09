@@ -11,7 +11,7 @@
 
 🔭 SSAFY 10th 전공 자바 6반 <br>
 📫 email: oilater@naver.com <br>
-😄 tistory: https://mallange.tistory.com/
+😄 tistory: https://mallange.tistory.com <br>
 😄 velog: https://velog.io/@oilater
 <!--
 **oilater/oilater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
