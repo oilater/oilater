@@ -12,7 +12,7 @@
   🌱 알고리즘 꾸준히 풀기 <br>
   🌱 2학기 프로젝트 수상하기 (공통 프로젝트 우수상) <br>
   🌱 iOS 개인 앱 배포하기 <br>
-  🌱 취업 싸탈하기 <br>
+  🌱 취업 싸탈하자 <br>
 
 🔭 SSAFY 10th 전공 자바 6반 <br>
 📫 email: oilater@naver.com <br>
