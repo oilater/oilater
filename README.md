@@ -1,4 +1,4 @@
-### Hi, I'm SeongHyeon 👋
+### Hi, I'm Seonghyeon Kim 👋
 
 💬 삼성 청년 SW 아카데미(SSAFY) 10기 (2023.07.15 ~ing)<br>
 
