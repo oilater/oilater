@@ -3,6 +3,7 @@
 깔끔하고 실용적인 앱 서비스를 만드는 것을 좋아합니다!
 
 💬 삼성 청년 SW 아카데미(SSAFY) 10기 (2023.07.15 ~ing)<br>
+  🌱 전공 Java 6반 <br>
   🌱 삼성 SW역량테스트 A형 <br>
   🌱 1학기 프로젝트 최우수상, 2학기 공통 프로젝트 우수상  <br>
 
@@ -11,7 +12,7 @@
   🌱 취업 싸탈!!<br>
 
 
-🔭 SSAFY 10th 전공 자바 6반 <br>
+
 📫 email: oilater@naver.com <br>
 😄 tistory: https://mallange.tistory.com <br>
 😄 velog: https://velog.io/@oilater
