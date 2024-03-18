@@ -9,7 +9,7 @@
 
 💬 in 2024 <br>
   🌱 iOS 1인 앱 '홈트친구' 개발 (Swift) <br>
-  Link: https://apps.apple.com/kr/app/%ED%99%88%ED%8A%B8%EC%B9%9C%EA%B5%AC/id6479449596
+      https://apps.apple.com/kr/app/%ED%99%88%ED%8A%B8%EC%B9%9C%EA%B5%AC/id6479449596
   
   🌱 취업 싸탈!!<br>
 
