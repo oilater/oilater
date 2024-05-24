@@ -1,17 +1,16 @@
 ### Hi, I'm Seonghyeon Kim 👋
 
-깔끔하고 실용적인 앱 서비스를 좋아합니다.
+공부하고, 만드는 것을 좋아하는 신입 개발자입니다.
 
 💬 삼성 청년 SW 아카데미(SSAFY) 10기<br>
   🌱 전공 Java 6반 <br>
   🌱 SSAFY 프로젝트 3회 수상
-
-💬 in 2024 <br>
   🌱 iOS 1인 앱 '홈트친구' 개발 <br>
   
-  구경하러 가기: 
   https://apps.apple.com/kr/app/%ED%99%88%ED%8A%B8%EC%B9%9C%EA%B5%AC/id6479449596
 
+<br>
+### 📞 Contact
 
 📱 phone: 010-2717-6906 <br>
 📫 email: oilater@naver.com <br>
