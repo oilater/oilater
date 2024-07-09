@@ -2,7 +2,7 @@
 
 공부하고, 만드는 것을 좋아하는 신입 개발자입니다.
 
-💬 삼성 청년 SW 아카데미(SSAFY) 10기<br>
+💬 삼성 청년 SW 아카데미(SSAFY) 10기 수료 (2023.07 ~ 2024.06)<br>
   🌱 전공 Java반 <br>
   🌱 SSAFY 공식 기자단 SSAFYCial 활동 <br>
   🌱 SSAFY 프로젝트 3회 수상 <br>
@@ -16,6 +16,7 @@
 📱 phone: 010-2717-6906 <br>
 📫 email: oilater@naver.com <br>
 😄 tistory: https://mallange.tistory.com <br>
+💬 velog: https://velog.io/@oilater/posts
 <!--
 **oilater/oilater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
