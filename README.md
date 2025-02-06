@@ -8,8 +8,12 @@
   🌱 SSAFY 공식 기자단 SSAFYCial 활동 <br>
   🌱 SSAFY 프로젝트 3회 수상 <br>
   🌱 iOS 1인 앱 '홈트친구', '오토타이머' 개발 <br>
-  
+
+  홈트친구
   https://apps.apple.com/kr/app/%ED%99%88%ED%8A%B8%EC%B9%9C%EA%B5%AC/id6479449596
+
+  오토타이머
+  https://apps.apple.com/kr/app/%EC%98%A4%ED%86%A0%ED%83%80%EC%9D%B4%EB%A8%B8/id6741530854
 
 <br>
 📞 Contact
