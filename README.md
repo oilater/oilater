@@ -2,7 +2,7 @@
 
 공부하고, 만드는 것을 좋아하는 신입 개발자입니다.
 
-💬 구스랩스 (2024.07 ~)<br>
+💬 구스랩스 (2024.07 ~ 2025.2 서비스 종료)<br>
 💬 삼성 청년 SW 아카데미(SSAFY) 10기 수료 (2023.07 ~ 2024.06)<br>
   🌱 전공 Java반 <br>
   🌱 SSAFY 공식 기자단 SSAFYCial 활동 <br>
@@ -11,7 +11,6 @@
 
   홈트친구
   https://apps.apple.com/kr/app/%ED%99%88%ED%8A%B8%EC%B9%9C%EA%B5%AC/id6479449596
-
   오토타이머
   https://apps.apple.com/kr/app/%EC%98%A4%ED%86%A0%ED%83%80%EC%9D%B4%EB%A8%B8/id6741530854
 
