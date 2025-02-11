@@ -3,23 +3,24 @@
 공부하고, 만드는 것을 좋아하는 신입 개발자입니다.
 
 ## 1. Skills
-<div style="display: flex; flex-wrap: nowrap; gap: 10px;">
-  <div style="border-radius: 20px; overflow: hidden;">
+<div style="white-space: nowrap;">
+  <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Unity-555555.svg?style=for-the-badge&logo=unity&logoColor=white" />
-  </div>
-  <div style="border-radius: 20px; overflow: hidden;">
+  </span>
+  <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
     <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  </div>
-  <div style="border-radius: 20px; overflow: hidden;">
+  </span>
+  <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  </div>
-  <div style="border-radius: 20px; overflow: hidden;">
+  </span>
+  <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
     <img src="https://img.shields.io/badge/SwiftUI-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" />
-  </div>
-  <div style="border-radius: 20px; overflow: hidden;">
+  </span>
+  <span style="display: inline-flex; border-radius: 20px; overflow: hidden;">
     <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
-  </div>
+  </span>
 </div>
+
 
 
 
