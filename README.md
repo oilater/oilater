@@ -3,7 +3,9 @@
 공부하고, 만드는 것을 좋아하는 신입 개발자입니다.
 
 ## 1. Skills
-<img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+
 
 💬 구스랩스 (2024.07 ~ 2025.2 서비스 종료)<br>
 💬 삼성 청년 SW 아카데미(SSAFY) 10기 수료 (2023.07 ~ 2024.06)<br>
