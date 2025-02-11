@@ -1,6 +1,6 @@
-  ### Hi, I'm Seonghyeon Kim 👋
+### Hi, I'm Seonghyeon Kim 👋
 
-공부하고, 만드는 것을 좋아하는 신입 개발자입니다.
+아이디어를 실현하는 것을 좋아하고, 좋은 코드를 짜기 위해 노력합니다.
 
 ## 1. Skills
 <div style="white-space: nowrap;">
