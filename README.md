@@ -23,22 +23,25 @@
 
 
 
+## 2. Work Experience
+💬 구스랩스 (2024.07.22 ~ 2025.2.28 서비스 종료)<br>
 
-💬 구스랩스 (2024.07 ~ 2025.2 서비스 종료)<br>
+## 3. Education
+
 💬 삼성 청년 SW 아카데미(SSAFY) 10기 수료 (2023.07 ~ 2024.06)<br>
   🌱 전공 Java반 <br>
+  🌱 SSAFY 프로젝트 상 3회 수상 <br>
   🌱 SSAFY 공식 기자단 SSAFYCial 활동 <br>
-  🌱 SSAFY 프로젝트 3회 수상 <br>
-  🌱 iOS 1인 앱 '홈트친구', '오토타이머' 개발 <br>
 
-  홈트친구
+## 4. Experience
+💬 매일 운동 및 트레이닝을 돕는 iOS 1인 앱 '홈트친구', '오토타이머' 개발 <br>
+
+  홈트친구 Appstore 링크
   https://apps.apple.com/kr/app/%ED%99%88%ED%8A%B8%EC%B9%9C%EA%B5%AC/id6479449596
-  오토타이머
+  오토타이머 Appstore 링크
   https://apps.apple.com/kr/app/%EC%98%A4%ED%86%A0%ED%83%80%EC%9D%B4%EB%A8%B8/id6741530854
 
-<br>
-📞 Contact
-<br>
+## 5. Contact
 📱 phone: 010-2717-6906 <br>
 📫 email: oilater@naver.com <br>
 😄 tistory: https://mallange.tistory.com <br>
