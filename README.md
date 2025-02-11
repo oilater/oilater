@@ -5,7 +5,8 @@
 ## 1. Skills
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Unity-555555.svg?style=for-the-badge&logo=unity&logoColor=white" style="border-radius: 10px;" />
-  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" style="border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/C sharp%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" style="border-radius: 10px;" />
+  
 </div>
 
 
