@@ -3,7 +3,7 @@
 공부하고, 만드는 것을 좋아하는 신입 개발자입니다.
 
 ## 1. Skills
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; white-space: nowrap;">
   <div style="border-radius: 20px; overflow: hidden;">
     <img src="https://img.shields.io/badge/Unity-555555.svg?style=for-the-badge&logo=unity&logoColor=white" />
   </div>
@@ -11,16 +11,13 @@
     <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   </div>
   <div style="border-radius: 20px; overflow: hidden;">
-    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  </div>
-  <div style="border-radius: 20px; overflow: hidden;">
     <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
   </div>
   <div style="border-radius: 20px; overflow: hidden;">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/SwiftUI-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" />
   </div>
   <div style="border-radius: 20px; overflow: hidden;">
-    <img src="https://img.shields.io/badge/SwiftUI-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
   </div>
 </div>
 
