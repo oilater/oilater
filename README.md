@@ -3,8 +3,10 @@
 공부하고, 만드는 것을 좋아하는 신입 개발자입니다.
 
 ## 1. Skills
-<img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Unity-555555.svg?style=for-the-badge&logo=unity&logoColor=white" style="border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" style="border-radius: 10px;" />
+</div>
 
 
 💬 구스랩스 (2024.07 ~ 2025.2 서비스 종료)<br>
