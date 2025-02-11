@@ -3,7 +3,7 @@
 공부하고, 만드는 것을 좋아하는 신입 개발자입니다.
 
 ## 1. Skills
-<div style="display: flex; gap: 10px; white-space: nowrap;">
+<div style="display: flex; flex-wrap: nowrap; gap: 10px;">
   <div style="border-radius: 20px; overflow: hidden;">
     <img src="https://img.shields.io/badge/Unity-555555.svg?style=for-the-badge&logo=unity&logoColor=white" />
   </div>
@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
   </div>
 </div>
+
 
 
 💬 구스랩스 (2024.07 ~ 2025.2 서비스 종료)<br>
