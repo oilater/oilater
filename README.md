@@ -29,8 +29,8 @@
 ## 3. Education
 
 💬 삼성 청년 SW 아카데미(SSAFY) 10기 수료 (2023.07 ~ 2024.06)<br>
-  🌱 전공 Java반 <br>
-  🌱 SSAFY 프로젝트 상 3회 수상 <br>
+  🌱 전공 자바반 수료 <br>
+  🌱 프로젝트 상 3회 수상 <br>
   🌱 SSAFY 공식 기자단 SSAFYCial 활동 <br>
 
 ## 4. Experience
