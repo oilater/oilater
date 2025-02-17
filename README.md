@@ -26,7 +26,6 @@
 ## 2. Work Experience
 💬 구스랩스(삼성전자 C-Lab) Unity Engineer<br><br>
 🌱 2024.07.22 ~ 2025.2.28 <br>
-🌱 FIVA 서비스 종료 <br>
 
 ## 3. Education
 
