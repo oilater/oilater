@@ -1,6 +1,6 @@
 ### Hi, I'm Seonghyeon Kim 👋
 
-아이디어 실현을 좋아하고, 좋은 코드를 짜기 위해 노력합니다.
+아이디어를 실현하며 좋은 코드를 짜기 위해 학습합니다.
 
 ## 1. Skills
 <div style="white-space: nowrap;">
