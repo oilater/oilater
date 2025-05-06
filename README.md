@@ -26,7 +26,7 @@
 ## 2. Work Experience
 💬 구스랩스(삼성전자 C-Lab) Unity Engineer<br>
 🌱 2024.07.22 ~ 2025.2.28 <br>
-🌱 FIVA 앱 내 UI, AI 운동 게임 2종 개발 <br>
+🌱 FIVA 앱 내 UI, AI 운동 게임 2종 개발 <br>
 
 ## 3. Education
 
@@ -36,7 +36,7 @@
   🌱 SSAFY 공식 기자단 SSAFYCial 활동 <br>
 
 ## 4. Experience
-💬 매일 운동 및 트레이닝을 돕는 iOS 1인 앱 '홈트친구', '오토타이머' 개발 <br>
+💬 매일 운동 및 트레이닝을 돕는 홈트친구, 오토타이머 개발 (iOS 1인 앱)<br>
 
   홈트친구
   https://apps.apple.com/kr/app/%ED%99%88%ED%8A%B8%EC%B9%9C%EA%B5%AC/id6479449596 <br><br>
