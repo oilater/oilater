@@ -27,12 +27,13 @@
 💬 구스랩스(삼성전자 C-Lab) Unity 개발 (9개월, 2024.07 ~ 2025.03) <br>
 🌱 FIVA 앱 내 UI 구현 및 AI 운동 게임 2종 개발 <br>
 🌱 충남대학교 넛지 플랫폼 대시보드 개발 (Retool, Javascript) <br>
+🌱 FIVA 서비스 종료로 인한 퇴사 <br>
 
 ## 3. Education
 
 💬 삼성 청년 SW 아카데미(SSAFY) 10기 수료 (2023.07 ~ 2024.06)<br>
-  🌱 전공 자바반 수료 <br>
-  🌱 팀 프로젝트 상 3회 수상 (프론트엔드) <br>
+  🌱 전공 Java반 수료 <br>
+  🌱 팀 프로젝트 상 3회 수상 (Frontend) <br>
   🌱 SSAFY 공식 기자단 SSAFYCial 활동 <br>
 
 ## 4. Experience
