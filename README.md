@@ -1,6 +1,6 @@
 ### Hi, I'm Seonghyeon Kim 👋
 
-아이디어를 실현하며 좋은 코드를 지향합니다.
+안녕하세요! 만드는 것과 아이디어를 현실화하는 것을 좋아하는 개발자 김성현입니다.
 
 ## 1. Skills
 <div style="white-space: nowrap;">
