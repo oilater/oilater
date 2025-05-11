@@ -5,6 +5,12 @@
 ## 1. Skills
 <div style="white-space: nowrap;">
   <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  </span>
+  <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </span>
+  <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Unity-555555.svg?style=for-the-badge&logo=unity&logoColor=white" />
   </span>
   <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
@@ -25,9 +31,9 @@
 
 ## 2. Work Experience
 💬 구스랩스(삼성전자 C-Lab) Unity 개발 (9개월, 2024.07 ~ 2025.03) <br>
-🌱 FIVA 앱 내 UI 구현 및 AI 운동 게임 2종 개발 <br>
-🌱 충남대학교 넛지 플랫폼 대시보드 개발 (Retool, Javascript) <br>
-🌱 FIVA 서비스 종료로 인한 퇴사 <br>
+🌱 FIVA 앱 UI 구현, AI를 활용한 운동 게임 2종 개발 <br>
+🌱 충남대학교 넛지 플랫폼 연구팀 Dashboard 개발 (Retool, Javascript) <br>
+🌱 2025.03 FIVA 서비스 종료로 인한 퇴사 <br>
 
 ## 3. Education
 
