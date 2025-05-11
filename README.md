@@ -17,9 +17,6 @@
     <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   </span>
   <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  </span>
-  <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
     <img src="https://img.shields.io/badge/SwiftUI-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" />
   </span>
   <span style="display: inline-flex; border-radius: 20px; overflow: hidden;">
