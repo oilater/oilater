@@ -27,7 +27,7 @@
 
 
 ## 2. Work Experience
-💬 구스랩스(삼성전자 C-Lab) Unity 개발 (9개월, 2024.07 ~ 2025.03) <br>
+💬 구스랩스 Unity 개발 (8개월, 2024.07 ~ 2025.02) <br>
 <br>
 🌱 FIVA 앱 UI 구현, AI를 활용한 운동 게임 2종 개발 <br>
 🌱 충남대학교 넛지 플랫폼 연구팀 Dashboard 개발 (Retool, Javascript) <br>
