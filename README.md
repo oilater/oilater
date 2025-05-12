@@ -1,6 +1,6 @@
 ### Hi, I'm Seonghyeon Kim 👋
 
-안녕하세요! 기술로 일상의 편리함을 만드는 9개월 차 프론트엔드 개발자 김성현입니다.
+안녕하세요! 기술로 일상의 편리함을 만드는 프론트엔드 개발자 김성현입니다.
 
 ## 1. Skills
 <div style="white-space: nowrap;">
