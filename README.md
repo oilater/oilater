@@ -31,7 +31,11 @@
 💬 구스랩스 Unity 개발 (8개월, 2024.07 ~ 2025.02) <br>
 <br>
 ∙ FIVA 앱 UI 개발 <br>
+
+
 ∙ AI를 활용한 운동 게임 2종 개발 <br>
+
+
 ∙ 충남대학교 넛지 플랫폼 연구팀 Dashboard 개발 (Retool, Javascript) <br>
 
 <br>
@@ -42,7 +46,11 @@
 💬 삼성 청년 SW 아카데미(SSAFY) 10기 수료 (2023.07 ~ 2024.06)<br>
 <br>
   ∙ 전공 Java반 <br>
+
+  
   ∙ 팀 프로젝트 상 3회 수상 <br>
+
+  
   ∙ SSAFY 공식 기자단 SSAFYCial 활동 <br>
 
 <br>
