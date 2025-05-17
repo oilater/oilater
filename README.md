@@ -10,6 +10,9 @@
 
 ## 1. Skills
 <div style="white-space: nowrap;">
+  <span style="display: inline-flex; border-radius: 20px; overflow: hidden;">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  </span>
   <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   </span>
