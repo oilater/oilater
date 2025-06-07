@@ -37,7 +37,6 @@
 <br>
 
 ## 2. Work Experience
-💬 S&G 컴퍼니 웹(Next JS, python) 개발 (2025.06 ~ ) <br>
 
 💬 구스랩스 Unity 개발 (2024.07 ~ 2025.02) <br>
 
