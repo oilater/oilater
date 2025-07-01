@@ -38,7 +38,7 @@
 
 ## 2. Work Experience
 
-💬 구스랩스 Unity 앱 FIVA Frontend 개발 (2024.07 ~ 2025.02) <br>
+💬 구스랩스 Unity 앱 Frontend 개발 (2024.07 ~ 2025.02) <br>
 
 <br>
 <br>
@@ -55,7 +55,7 @@
 ## 4. Experience
 💬 매일 운동 및 트레이닝을 돕는 홈트친구, 오토타이머 개발 및 배포 <br>
 
-💬 웹 소켓을 이용한 실시간 운동 친구 만들기 서비스 `Crewing` 개발 중 <br>
+💬 웹 소켓을 이용한 실시간 운동 친구 만들기 서비스 `Crewing` 개발 <br>
 
 <br>
 <br>
