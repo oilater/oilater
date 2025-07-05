@@ -5,8 +5,10 @@
 
 ∙ 👨🏼‍💻 좋은 코드를 만들기 위해 고민하고 학습합니다. <br>
 
+∙ 👨🏼‍💻 포트폴리오 <br/>
 
-∙ 💡 결과보단 생각하는 과정을 즐김<br>
+https://portfolio-amber-mu-57.vercel.app/
+
 
 ## 1. Skills
 <div style="white-space: nowrap;">
@@ -38,7 +40,7 @@
 
 ## 2. Work Experience
 
-💬 구스랩스 Unity 앱 Frontend 개발 (2024.07 ~ 2025.02) <br>
+💬 구스랩스 Unity 앱 Frontend 개발 (24.07 ~ 25.02) <br>
 
 <br>
 <br>
