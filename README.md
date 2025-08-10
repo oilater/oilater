@@ -57,8 +57,6 @@ https://portfolio-amber-mu-57.vercel.app/
 ## 4. Experience
 💬 매일 운동 및 트레이닝을 돕는 홈트친구, 오토타이머 개발 및 배포 <br>
 
-💬 웹 소켓을 이용한 실시간 운동 친구 만들기 서비스 `Crewing` 개발 <br>
-
 <br>
 <br>
 
