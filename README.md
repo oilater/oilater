@@ -42,9 +42,7 @@ https://portfolio-amber-mu-57.vercel.app/
 
 ## 3. Education
 
-💬 삼성 청년 SW 아카데미(SSAFY) 10기 수료 (2023.07 ~ 2024.06)<br>
-
-- 팀 프로젝트 3회 수상 <br>
+💬 삼성 청년 SW 아카데미(SSAFY) 10기
 
 <br>
 <br>
