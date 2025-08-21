@@ -2,7 +2,7 @@
 
 ∙ 👨🏼‍💻 좋은 코드를 만들기 위해 고민하고 학습합니다. <br>
 
-https://portfolio-amber-mu-57.vercel.app/
+[포트폴리오 링크](https://tech-blog-portfolio.vercel.app/)
 
 
 ## 1. Skills
