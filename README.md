@@ -2,36 +2,9 @@
 
 ∙ 👨🏼‍💻 좋은 코드를 만들기 위해 고민하고 학습합니다. <br>
 
-[포트폴리오 링크](https://tech-blog-portfolio.vercel.app/)
+[포트폴리오 링크](https://oilater.com/)
 
 
-## Skills
-<div style="white-space: nowrap;">
-  <span style="display: inline-flex; border-radius: 20px; overflow: hidden;">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  </span>
-  <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  </span>
-  <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </span>
-  <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Unity-555555.svg?style=for-the-badge&logo=unity&logoColor=white" />
-  </span>
-  <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  </span>
-  <span style="display: inline-flex; border-radius: 20px; overflow: hidden; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/SwiftUI-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" />
-  </span>
-  <span style="display: inline-flex; border-radius: 20px; overflow: hidden;">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
-  </span>
-</div>
-
-<br>
-<br>
 
 ## Work
 
