@@ -5,7 +5,7 @@
 [포트폴리오 링크](https://tech-blog-portfolio.vercel.app/)
 
 
-## 1. Skills
+## Skills
 <div style="white-space: nowrap;">
   <span style="display: inline-flex; border-radius: 20px; overflow: hidden;">
     <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -33,27 +33,27 @@
 <br>
 <br>
 
-## 2. Work Experience
+## Work
 
 💬 구스랩스 Unity 앱 Frontend 개발 (24.07 ~ 25.02) <br>
 
 <br>
 <br>
 
-## 3. Education
+## Education
 
 💬 삼성 청년 SW 아카데미(SSAFY) 10기
 
 <br>
 <br>
 
-## 4. Experience
+## Experience
 💬 매일 운동 및 트레이닝을 돕는 홈트친구, 오토타이머 개발 및 배포 <br>
 
 <br>
 <br>
 
-## 5. Contact
+## Contact
 📱 phone: 010-2717-6906 <br>
 📫 email: oilater@naver.com <br>
 💬 velog: https://velog.io/@oilater/posts
