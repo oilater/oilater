@@ -1,33 +1,33 @@
-### Hi, I'm Seonghyeon Kim 👋
+### Me 👋
 
-∙ 👨🏼‍💻 좋은 코드를 만들기 위해 고민하고 학습합니다. <br>
+👨🏼‍💻 FP 잘하고 싶은 1년차 개발자,,<br>
 
 [포트폴리오](https://oilater.com/)
 
 
 
-## Work
-💬 스퀘어노트 Frontend Engineer (25.10 ~ now) <br/>
+### Work
+💬 스퀘어노트 Frontend Engineer (25.10 ~ ) <br/>
 💬 구스랩스 FIVA Unity Engineer (24.07 ~ 25.02) <br/>
 
 
 <br>
 <br>
 
-## Education
+### Education
 
 💬 삼성 청년 SW 아카데미 10기 수료 (2023.07 - 2024.06)
 
 <br>
 <br>
 
-## Experience
+### Experience
 💬 매일 운동을 돕는 홈트친구, 오토타이머 개발 및 배포 <br>
 
 <br>
 <br>
 
-## Contact
+### Contact
 📫 email: oilater@naver.com <br>
 📫 linkedin: [https://www.linkedin.com/in/seonghyeonkim/](https://www.linkedin.com/in/seonghyeonkim/) <br>
 💬 velog: https://velog.io/@oilater/posts
