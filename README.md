@@ -11,25 +11,25 @@
 💬 구스랩스 FIVA Unity Engineer (24.07 ~ 25.02) <br/>
 
 
-<br>
+
 <br>
 
 ### Education
 
 💬 삼성 청년 SW 아카데미 10기 수료 (2023.07 - 2024.06)
 
-<br>
+
 <br>
 
 ### Experience
 💬 매일 운동을 돕는 홈트친구, 오토타이머 개발 및 배포 <br>
 
-<br>
+
 <br>
 
 ### Contact
 📫 email: oilater@naver.com <br>
-📫 linkedin: [https://www.linkedin.com/in/seonghyeonkim/](https://www.linkedin.com/in/seonghyeonkim/) <br>
+👯 linkedin: [https://www.linkedin.com/in/seonghyeonkim/](https://www.linkedin.com/in/seonghyeonkim/) <br>
 💬 velog: https://velog.io/@oilater/posts
 <!--
 **oilater/oilater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
