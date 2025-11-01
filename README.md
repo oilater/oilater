@@ -7,8 +7,8 @@
 
 
 ## Work
-💬 스퀘어노트 Frontend Developer (25.10 ~ now) <br/>
-💬 구스랩스 FIVA 앱 Frontend 개발 (24.07 ~ 25.02) <br/>
+💬 스퀘어노트 Frontend Engineer (25.10 ~ now) <br/>
+💬 구스랩스 FIVA Unity Engineer (24.07 ~ 25.02) <br/>
 
 
 <br>
