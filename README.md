@@ -7,22 +7,16 @@
 
 
 ### Work
-💬 스퀘어노트 Frontend Engineer (25.10 ~ ) <br/>
-💬 구스랩스 FIVA Unity Engineer (24.07 ~ 25.02) <br/>
+스퀘어노트 Frontend Developer (25.10 ~ ) <br/>
+구스랩스 FIVA Unity Engineer (24.07 ~ 25.02) <br/>
 
-<br>
+
 
 ### Education
 
-💬 삼성 청년 SW 아카데미 10기 수료 (23.07 - 24.06)
-
-<br>
-
-### Experience
-💬 매일 운동을 돕는 홈트친구, 오토타이머 개발 및 배포 <br>
+삼성 청년 SW 아카데미 10기 수료 (23.07 - 24.06)
 
 
-<br>
 
 ### Contact
 📫 email: oilater@naver.com <br>
