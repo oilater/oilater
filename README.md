@@ -19,25 +19,12 @@
 
 
 ### Contact
-📫 email: oilater@naver.com <br>
-👯 linkedin: [https://www.linkedin.com/in/seonghyeonkim/](https://www.linkedin.com/in/seonghyeonkim/) <br>
-💬 velog: https://velog.io/@oilater/posts
-<!--
-**oilater/oilater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email: oilater@naver.com <br>
+Linkedin: [https://www.linkedin.com/in/seonghyeonkim/](https://www.linkedin.com/in/seonghyeonkim/) <br>
+Velog: https://velog.io/@oilater/posts
 
 
-
-- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=oilater)](https://solved.ac/oilater)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oilater&show_icons=true&theme=radical)
