@@ -1,6 +1,6 @@
 ### Me 👋
 
-[주소창에 oilater.com을 입력하면 일어나는 일](https://oilater.com/)
+[oilater.com](https://oilater.com/)
 
 
 
