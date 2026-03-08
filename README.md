@@ -2,3 +2,8 @@
 
 - [blog](https://oilater.com/) <br/>
 - [linkedin](https://www.linkedin.com/in/seonghyeonkim/)
+
+### Open Source Contribution
+
+#### Vitest
+- https://github.com/vitest-dev/vitest/pull/9781
