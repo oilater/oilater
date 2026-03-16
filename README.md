@@ -6,4 +6,5 @@
 ### Open Source Contribution
 
 #### Vitest
+- https://github.com/vitest-dev/vitest/pull/9861
 - https://github.com/vitest-dev/vitest/pull/9781
