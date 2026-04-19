@@ -1,10 +1,4 @@
-<i>You have to be satisfied to be at the level you are at, and you have to be very real and very basic at that level. - Bill Evans</i>
+> Be satisfied at the level you're at, and be real and basic there. - Bill Evans
 
 - [blog](https://oilater.com/) <br/>
 - [linkedin](https://www.linkedin.com/in/seonghyeonkim/)
-
-### Open Source Contribution
-
-#### Vitest
-- https://github.com/vitest-dev/vitest/pull/9861
-- https://github.com/vitest-dev/vitest/pull/9781
