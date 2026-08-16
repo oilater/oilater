@@ -1,9 +1,6 @@
 ### ✨ Introduce
 ---
 
-안녕하세요!
-만 1년차 프론트엔드 개발자 김성현입니다.<br/>
-
 틈틈히 이것저것 공부하는 중..!
 
 ### 🧗 Open Source Contribution
